@@ -1,0 +1,34 @@
+#+title: General concepts
+
+* Genral skills
+** Typing
+** Search
+*** Consult search engines
+*** Find answer in documentation
+** Communication
+*** To be cool in office
+*** Contribute in Community
+** Develope good IT background
+
+* OS
+** GNU/Linux
+*** Standard OS
+*** Way of work
+*** Free Software concepts
+** Windows
+*** Install a clean windows
+*** Remove all shitwares, disable auto update, more
+*** WSL as a solution to escape from windows hell
+Virtualization
+Debian
+Quake
+Set up development environmet
+
+
+* Programming
+** Python
+*** [Basics](pythonbasics.org)
+
+** Git
+
+* Network
