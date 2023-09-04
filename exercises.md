@@ -1,6 +1,6 @@
 * xo
 * snake
-* web crowler
+* web craowler
 * search, sort
 * Simple API usage
 * AI, ML
