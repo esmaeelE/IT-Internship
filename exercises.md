@@ -1,6 +1,6 @@
 * xo
 * snake
-* web crawler, scapy 
+* web crawler, scapy
 * RabbitMQ
 * search, sort
 * Simple API usage, RESTful API
