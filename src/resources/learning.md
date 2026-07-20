@@ -1,4 +1,7 @@
+<div dir="rtl" style="text-align: right;">
+
 # Learning Material
+
 ## GNU/Linux
 - کتاب رقص با لینوکس سحر شاکر
 - صفحات ویکی پدیای فارسی و انگلیسی
@@ -10,4 +13,6 @@
 
 * [Python](https://forum.ubuntu-ir.org/index.php?topic=157714.msg1245072#msg1245072)
 * [C](https://forum.ubuntu-ir.org/index.php?topic=150453.msg1169817#msg1169817)
+
+</div>
 
