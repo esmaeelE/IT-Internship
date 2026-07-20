@@ -1,0 +1,12 @@
+[book]
+title = "IT Internship"
+authors = ["esmaeel"]
+description = "Learning roadmap and resources for IT interns"
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/esmaeelE/IT-Internship"
