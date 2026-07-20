@@ -10,3 +10,9 @@ build-dir = "book"
 
 [output.html]
 git-repository-url = "https://github.com/esmaeelE/IT-Internship"
+additional-css = ["src/theme/custom.css"]
+
+[output.html.search]
+enable = true
+limit-results = 30
+expand = true

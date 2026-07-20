@@ -4,6 +4,10 @@
 
 ---
 
+# Getting Started
+
+- [Week 1 Plan](./getting-started.md)
+
 # Roadmap
 
 - [Skills](./roadmap/skills.md)
@@ -21,7 +25,3 @@
 # Notes
 
 - [Note-Taking Structure](./notes/notes.md)
-
----
-
-- [Discipline](./discipline.md)
