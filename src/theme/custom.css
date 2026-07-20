@@ -1,18 +1,5 @@
 /* Custom styles for IT Internship mdBook */
 
-/* Checkbox styling for task lists */
-input[type="checkbox"] {
-    margin-right: 0.5em;
-    accent-color: #2ecc71;
-}
-
-/* Better spacing for task lists */
-.task-list-item {
-    list-style-type: none;
-    margin-left: -1.5em;
-    padding: 0.2em 0;
-}
-
 /* Blockquote styling for motto/quotes */
 blockquote {
     border-left: 4px solid #2ecc71;
