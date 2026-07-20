@@ -1,9 +1,9 @@
 # Note taking
 
-He/She will write daily nots in this structure
+Write daily notes in this structure
 
 * notes
-  * routine: review notes, planing for day and week
+  * routine: review notes, planning for day and week
   * python
   * cs: wiki pages, summarize important
   * fun

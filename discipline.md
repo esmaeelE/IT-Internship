@@ -1,4 +1,4 @@
-# Dicipline and vision
+# Discipline and Vision
 
 Motto
 Find/create a vision and follow it.
